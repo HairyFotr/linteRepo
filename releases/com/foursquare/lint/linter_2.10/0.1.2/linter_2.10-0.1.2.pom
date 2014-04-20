@@ -5,7 +5,7 @@
     <artifactId>linter_2.10</artifactId>
     <packaging>jar</packaging>
     <description>linter</description>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.1.2</version>
     <name>linter</name>
     <organization>
         <name>com.foursquare.lint</name>
