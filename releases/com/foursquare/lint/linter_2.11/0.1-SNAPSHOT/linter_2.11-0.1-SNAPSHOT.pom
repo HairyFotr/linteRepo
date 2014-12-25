@@ -14,12 +14,12 @@
         <dependency>
             <groupId>org.scala-lang</groupId>
             <artifactId>scala-compiler</artifactId>
-            <version>2.11.2</version>
+            <version>2.11.4</version>
         </dependency>
         <dependency>
             <groupId>org.scala-lang</groupId>
             <artifactId>scala-library</artifactId>
-            <version>2.11.2</version>
+            <version>2.11.4</version>
         </dependency>
         <dependency>
             <groupId>org.specs2</groupId>
@@ -30,19 +30,19 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.11</version>
+            <version>4.12</version>
             <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>com.novocode</groupId>
             <artifactId>junit-interface</artifactId>
-            <version>0.10</version>
+            <version>0.11</version>
             <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>org.scala-lang.modules</groupId>
             <artifactId>scala-xml_2.11</artifactId>
-            <version>1.0.2</version>
+            <version>1.0.3</version>
         </dependency>
     </dependencies>
     <repositories>
